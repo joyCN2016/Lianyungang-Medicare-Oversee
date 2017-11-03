@@ -1,0 +1,12 @@
+2017-08-14 18:24:02,979-0     INFO  [inca.saas.mess.lyg.DBHelper] (main:) 获取schemal集合--startMon Aug 14 18:24:02 CST 2017
+2017-08-14 18:24:02,990-11    INFO  [inca.saas.mess.lyg.DBHelper] (main:) 读取文本信息lineTxt: 447,lygrzt2218,db1,2218lygrzt.incayun.com
+2017-08-14 18:24:02,991-12    INFO  [inca.saas.mess.lyg.DBHelper] (main:) 读取文本信息lineTxt: 550,lyghx2403,db2,2403lyghx.incayun.com
+2017-08-14 18:24:02,991-12    INFO  [inca.saas.mess.lyg.DBHelper] (main:) list : 2
+2017-08-14 18:24:02,991-12    INFO  [inca.saas.mess.lyg.DBHelper] (main:) dboneList : 1
+2017-08-14 18:24:02,991-12    INFO  [inca.saas.mess.lyg.DBHelper] (main:) dbtwoList : 1
+2017-08-14 18:24:02,991-12    INFO  [inca.saas.mess.lyg.DBHelper] (main:) 开始上传DB1数据---start
+2017-08-14 18:24:13,502-10523 INFO  [inca.saas.mess.lyg.DBHelper] (main:) 最外部异常:尝试连线已失败。
+2017-08-14 18:24:13,504-10525 INFO  [inca.saas.mess.lyg.DBHelper] (main:) 开始DB1数据完成---end
+2017-08-14 18:24:13,504-10525 INFO  [inca.saas.mess.lyg.DBHelper] (main:) 开始上传DB2数据---start
+2017-08-14 18:24:23,505-20526 INFO  [inca.saas.mess.lyg.DBHelper] (main:) 最外部异常:尝试连线已失败。
+2017-08-14 18:24:23,507-20528 INFO  [inca.saas.mess.lyg.DBHelper] (main:) 上传DB2数据完成---end

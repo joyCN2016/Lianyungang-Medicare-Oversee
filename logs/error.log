@@ -1,0 +1,1 @@
+2017-04-10 09:53:56,584-95694 ERROR [com.inca.service.BaseService] (AWT-EventQueue-0:) 获取数据库连接异常:通过端口 1433 连接到主机 202.106.70.49 的 TCP/IP 连接失败。错误:“connect timed out。请验证连接属性，并检查 SQL Server 的实例正在主机上运行，且在此端口接受 TCP/IP 连接，还要确保防火墙没有阻止到此端口的 TCP 连接。”。
