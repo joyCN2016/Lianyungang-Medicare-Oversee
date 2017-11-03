@@ -180,9 +180,6 @@ public class DBHelper {
 		updateOracleIni(conn, pst, insertOracleStio, schemalName);
 		log.info("修改期初标记----end");
 		
-		if(true){
-			return;
-		}
 		
 		// -------------移库调拨单(配送)
 		log.info("查询移库调拨单(配送)数据--start");
